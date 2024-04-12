@@ -6,6 +6,6 @@
 
 ## Usage
 ```sh
-Options
--h, --help
+OPTIONS
+　　-h, --help
 ```
