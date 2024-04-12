@@ -7,5 +7,5 @@
 ## Usage
 ```sh
 OPTIONS
-　　-h, --help
+ -h, --help
 ```
