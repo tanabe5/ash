@@ -5,3 +5,7 @@
 圧縮ツール．zip,tar,jarなど
 
 ## Usage
+```sh
+Options
+-h, --help
+```
