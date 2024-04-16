@@ -11,3 +11,9 @@
 OPTIONS
  -h, --help
 ```
+
+## Install
+```sh
+```
+
+## About
