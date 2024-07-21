@@ -30,7 +30,7 @@ Options:
 ## Planned to be implemented
 -mで指定できるmodeにencryptを追加し，ファイルの暗号化機能を実装予定．パスワードを付けて，ファイルを圧縮できる．
 
-$ -m encrypt [ARGUMENTS]...  
+$ ash -m encrypt [ARGUMENTS]...  
 Enter password:
 
 ## Install
