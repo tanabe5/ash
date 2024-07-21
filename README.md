@@ -30,7 +30,9 @@ Options:
 
 ## Planned to be implemented
 ファイルの暗号化機能．パスワードを付けて，ファイルを圧縮する．
+
 $ -m encrypt [ARGUMENTS]...
+
 Enter password:
 
 ## Install
