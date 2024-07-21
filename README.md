@@ -6,8 +6,7 @@
 ファイルを各種フォーマットに圧縮するツール
 
 ## Description
-圧縮ツール．zip,tar,jarなど．
-
+圧縮ツール．zip,tar,jarなど．  
 統一的なインタフェースでそれぞれのアーカイブフォーマットを扱うことができる．
 
 ## Usage
@@ -31,7 +30,7 @@ Options:
 ## Planned to be implemented
 -mで指定できるmodeにencryptを追加．ファイルの暗号化機能．パスワードを付けて，ファイルを圧縮できる．
 
-$ -m encrypt [ARGUMENTS]...
+$ -m encrypt [ARGUMENTS]...  
 Enter password:
 
 ## Install
