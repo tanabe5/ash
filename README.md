@@ -28,7 +28,7 @@ Options:
 ```
 
 ## Planned to be implemented
--mで指定できるmodeにencryptを追加．ファイルの暗号化機能．パスワードを付けて，ファイルを圧縮できる．
+-mで指定できるmodeにencryptを追加し，ファイルの暗号化機能を実装予定．パスワードを付けて，ファイルを圧縮できる．
 
 $ -m encrypt [ARGUMENTS]...  
 Enter password:
