@@ -40,7 +40,7 @@ brew install tanabe5/tap/ash
 
 ## Docker
 ```sh
-docker run -it --rm -v $PWD:/workdir ghcr.io/tanabe5/ash:0.1.0 [OPTIONS] [ARGUMENTS]...
+docker run -it --rm -v $PWD:/workdir ghcr.io/tanabe5/ash:0.1.1 [OPTIONS] [ARGUMENTS]...
 ```
 
 ## About
