@@ -35,7 +35,7 @@ Enter password:
 
 ## Install
 ```sh
-brew install tap tanabe5/tap/ash
+brew install tanabe5/tap/ash
 ```
 
 ## Docker
