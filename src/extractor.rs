@@ -14,7 +14,7 @@ mod zip;
 pub struct ExtractorOpts {
     pub dest: PathBuf,
     pub use_archive_name_dir: bool,
-    pub _overwrite: bool,
+    pub overwrite: bool,
     pub v: Box<dyn Verboser>,
 }
 
