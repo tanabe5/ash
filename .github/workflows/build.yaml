@@ -31,6 +31,7 @@ jobs:
           cargo build
 
       - name: Send coverage to coveralls
+        continue-on-error: true
         uses: coverallsapp/github-action@master
         if: matrix.os == 'ubuntu-latest'
         with:
